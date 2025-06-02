@@ -1,4 +1,4 @@
-python==3.11
+# python==3.11
 # các thư viện khác
 streamlit==1.45.1
 opencv-python==4.11.0.86
