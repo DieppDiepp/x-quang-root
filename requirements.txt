@@ -1,3 +1,5 @@
+python==3.11
+# các thư viện khác
 streamlit==1.45.1
 opencv-python==4.11.0.86
 numpy==1.26.4
